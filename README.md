@@ -1,10 +1,4 @@
-## This project is available on github
-## The projects aim is to learn more about Html tags available
-### liscence
-#### [MIT](https://github.com/tama542/html002/blob/main/LICENSE)
-## This project is available on github
-### https://tama542.github.io/html002/
-## # Learning HTML tags
+
 
 ## Overview
 
@@ -82,9 +76,7 @@ To use this project, open the `index.html` file in your web browser. You can als
 
 Include screenshots of your project here. For example:
 
-![Screenshot 1](path/to/screenshot1.png)  
-![Screenshot 2](path/to/screenshot2.png)
-
+<img src="assets/scrn.JPG">
 ---
 
 ## Contributing
@@ -101,7 +93,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [[MIT]](LICENSE) file for details.
 
 ---
 
