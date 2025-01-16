@@ -101,4 +101,4 @@ This project is licensed under the MIT License. See the [[MIT]](LICENSE) file fo
 
 Your Name - Tama Nzavi
 [your-tamanzavi@gmail.com](mailto:your-tamanzavi@gmail.com)  
-Project Link: [https://github.com/tama542/html002](https://github.com/your-tama542/your-tama542)
+Project Link: [https://github.com/tama542/html002.git](https://github.com/tama542/html002.git)
